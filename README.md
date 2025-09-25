@@ -1,9 +1,3 @@
-Here is a template for the `README.md` file you need for your Git repository. It is structured to meet all the specific requirements from your project brief, including the technical explanations, setup instructions, and the mapping table.
-
------
-
-### README.md
-
 # Campus Course & Records Manager (CCRM)
 
 ### Project Overview
